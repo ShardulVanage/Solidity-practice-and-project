@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Escrow.sol": "escrow"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Escrow.sol": {
+			"keccak256": "0x929ad3c50eb79d0ca984cb6ebab4242fcbdbb66f6692da618be0f52b8d2510ef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://98e857b77370ad6dee9468ceb74d954c1e0a4961a28f27ba714255e51ae82bf8",
+				"dweb:/ipfs/Qmd7N442ffCnasEn36NuWZ5KekcCy62f6hfGf3igpJ7m7G"
+			]
+		}
+	},
+	"version": 1
+}
